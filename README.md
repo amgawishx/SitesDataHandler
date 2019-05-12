@@ -9,7 +9,7 @@ Note: Running the program should be done in safe envoirment, i.e not vulnerable 
 backdoor breach.
 
 
-<span style="color:RED">*WARNING*</span>: THIS PROGRAM'S RANDOM GENERATED PASSWORDS UTILISE  
+*WARNING*: THIS PROGRAM'S RANDOM GENERATED PASSWORDS UTILISE  
 PSEUDO-RANDOM ALGORITHMS.
 
 _*github@tutankhatum.com*_
