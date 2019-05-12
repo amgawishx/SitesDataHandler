@@ -10,6 +10,6 @@ backdoor breach.
 
 
 <span style="color:RED">*WARNING*</span>.: THIS PROGRAM'S RANDOM GENERATED PASSWORDS UTILISE  
-PSEUDO-RAINDOM ALGORITHMS.
+PSEUDO-RANDOM ALGORITHMS.
 
 _*github@tutankhatum.com*_
